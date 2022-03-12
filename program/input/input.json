@@ -1,0 +1,11 @@
+{
+  "start_year": 2010,
+  "ghg_emissions": {
+    "default": "",
+    "option": 2
+  },
+  "population": {
+    "vegetarian": 0.039,
+    "vegan": 0.015
+  }
+}

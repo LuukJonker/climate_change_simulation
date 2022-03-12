@@ -1,0 +1,53 @@
+{
+  "general_settings": {
+    "dark_theme": true,
+    "line_color": "blue"
+    },
+  "graph_settings": {
+    "temp": {
+      "title": "Prediction of the average temperature of the earth\nin celcius through time",
+      "xlabel": "Time in years",
+      "ylabel": "Temperature in celcius",
+      "trend": false,
+      "legend_label": "Temperature",
+      "legend_loc": "upper left"
+    },
+    "albedo": {
+      "title": "Prediction of albedo of the earth through time",
+      "xlabel": "Time in years",
+      "ylabel": "Albedo",
+      "trend": false
+    },
+    "ground_albedo": {
+      "title": "Prediction of ground albedo of the earth through time",
+      "xlabel": "Time in years",
+      "ylabel": "Albedo in percentages",
+      "trend": false
+    },
+    "co2_in_atmosphere": {
+      "title": "Prediction of CO2 in atmosphere through time",
+      "xlabel": "Time in years",
+      "ylabel": "Atmospheric CO2 in parts per million",
+      "trend": false
+    },
+    "absorption": {
+      "title": "Absorption through time",
+      "xlabel": "Time in years",
+      "ylabel": "Absorption",
+      "trend": false
+    },
+    "cloud": {
+      "title": "Prediction of cloud albedo through time",
+      "xlabel": "Time in years",
+      "ylabel": "Cloud albedo",
+      "trend": false
+    },
+    "snow": {
+      "title": "Prediction of snow coverage through time",
+      "xlabel": "Time in years",
+      "ylabel": "Snow coverage",
+      "trend": false
+    }
+  }
+
+}
